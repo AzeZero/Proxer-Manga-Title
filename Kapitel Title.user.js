@@ -2,7 +2,7 @@
 // @name         Kapitel Title
 // @version      1.0
 // @description  Fügt das Wort Chapter in die titel spalte eines Manga Kapitels hinzu.
-// @include      http://proxer.me/*
+// @include      https://proxer.me/*
 // @author       Aze
 // @match        https://proxer.me/uploadmanga?id=*
 // @grant        none
